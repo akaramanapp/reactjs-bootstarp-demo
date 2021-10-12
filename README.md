@@ -2,14 +2,14 @@
 
 ## Install Npm Packages
 
-### `npm install`
+`npm install`
 
 ## Run App
 
-### `npm start`
+`npm start`
 
 ## Build Production
 
-### `npm run build`
+`npm run build`
 
 
